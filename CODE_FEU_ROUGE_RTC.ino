@@ -1,3 +1,8 @@
+//Author : JohnSantos Ndiwayesu
+//on : 20th Jan 2018
+//if you encure syntax erros please replace the ' with "
+
+//include first MyRealTimeClock myRTC Module
 #include <MyRealTimeClock.h>
 #include <avr/wdt.h>
 
